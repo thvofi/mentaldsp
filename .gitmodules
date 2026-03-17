@@ -1,0 +1,3 @@
+[submodule "thvo-kicad-lib"]
+	path = thvo-kicad-lib
+	url = https://github.com/thvofi/thvo-kicad-lib.git
