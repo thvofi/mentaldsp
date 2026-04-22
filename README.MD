@@ -9,7 +9,16 @@
   >
   <img
     src="./docs/assets/mental-light.png"
-    width="100"
+    height="100"
+    align="left"
     alt="mentaldsp logo"
   >
 </picture>
+
+# Mental DSP
+
+### Table of Contents
+
+- [Bill of Materials](#bill-of-materials)
+
+## Bill of Materials
