@@ -15,7 +15,7 @@
   >
 </picture>
 
-# Mental DSP
+### ```Mental DSP```
 
 <br clear="left" />
 
