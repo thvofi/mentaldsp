@@ -15,8 +15,6 @@
   >
 </picture>
 
-### ```Mental DSP```
-
 <br clear="left" />
 
 ### Table of Contents
