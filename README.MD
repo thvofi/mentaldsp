@@ -17,8 +17,16 @@
 
 # Mental DSP
 
+<br clear="left" />
+
 ### Table of Contents
 
 - [Bill of Materials](#bill-of-materials)
+- [Hardware](#hardware)
+- [Software](#software)
 
 ## Bill of Materials
+
+## Hardware
+
+## Software
