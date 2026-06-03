@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "77e5f02d-709f-44d0-a9cf-86ffbae129e9")
 	(paper "A4")
+	(title_block
+		(title "mentaldsp")
+		(date "2026-06-01")
+		(rev "v2.0")
+		(company "github/thvofi")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Socket"
 			(pin_names
@@ -8252,7 +8258,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_PWRJack_2x5.5mm_CUIDevices_PJ-002AH-SMT-TR"
+		(property "Value" "PWRJack"
 			(at 270.51 147.3199 0)
 			(show_name no)
 			(do_not_autoplace no)

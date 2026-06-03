@@ -34,10 +34,16 @@
 |Coupler (shaft to pots)|5mm to 6.35mm|3|€0.45|€1.35|[AliExpress](https://a.aliexpress.com/_EwQRNfs)|
 |2020 Aluminum Extrusion|L100mm|6|€|€||
 |2040 Aluminum Extrusion|L100mm|3|€|€||
+|2020 Extrusion Joint|90deg|6|€|€||
+|Extrusion Insert|10mm|36|€|€||
 
 ## Hardware
 
 ### KiCAD
+
+![top](thvofi.github.io/mentaldsp/top.png)
+![bottom](thvofi.github.io/mentaldsp/bottom.png)
+rendered with [kicad-render](https://github.com/linalinn/kicad-render)
 
 ### 3D models
 
