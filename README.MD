@@ -41,8 +41,7 @@
 
 ### KiCAD
 
-![top](thvofi.github.io/mentaldsp/top.png)
-![bottom](thvofi.github.io/mentaldsp/bottom.png)
+![top](https://thvofi.github.io/mentaldsp/top.png)
 rendered with [kicad-render](https://github.com/linalinn/kicad-render)
 
 ### 3D models
