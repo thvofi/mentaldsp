@@ -40,7 +40,8 @@
 |DIN912 M5 screws|M5 10mm|18|€0.19|€3.42|[AliExpress](https://a.aliexpress.com/_EJXdA0I)|
 |ISO7380 M5 screws|M5 10mm|30|€0.16|€4.8|[AliExpress](https://a.aliexpress.com/_EGQIF4S)|
 |M5 washers (for 10mm M5 screws)|M5|48|€depends|€depends||
-|3M Dual lock|1m|1|€depends|€depends||
+|3M/Scotch Dual lock|1m|1|€depends|€depends||
+|ESP32-S3 Dev Board|Supermini|1|€3.8|€3.8|[AliExpress](https://a.aliexpress.com/_EJnZ8Py)|
 
 ## Hardware
 
@@ -60,8 +61,12 @@ rendered with [kicad-render](https://github.com/linalinn/kicad-render)
 ## Acknowledgment
 
 This project would not exist without the help of these amazing people and projects:
-
-- My advisor and friend [Valtteri](https://kallinen.xyz/)
+- My advisor and good friend [Valtteri](https://kallinen.xyz/)
 - Solomon at the [Aalto Fablab](https://studios.aalto.fi/fablab/)
 - [Daniel Frenkel](https://valarsystems.com/) and his [Trinamic Guide](https://valarsystems.com/products/controlling-trinamic-drivers-pdf)
+- teemuatlut for making the [TMCStepper](https://github.com/teemuatlut/TMCStepper) library
 - [DukeDesigns3D](https://dukedesigns3d.com/) and [JHS Pedals](https://www.youtube.com/@jhspedals) for the inspiration from the [Toe-N Control](https://www.youtube.com/watch?v=elcASapCZRY)
+
+Projects I have looked at:
+- [AndreaFavero71/stepper_sensorless_homing](https://github.com/AndreaFavero71/stepper_sensorless_homing)
+- [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
